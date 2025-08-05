@@ -11,7 +11,6 @@ Um simples e clássico Jogo da Velha desenvolvido com HTML, CSS e JavaScript. Do
 
 ## 🖼️ Preview
 
-![Jogo da Velha]
 <img src="./src/img/jogo1.png"/>
 
 ## 🛠️ Tecnologias Utilizadas
